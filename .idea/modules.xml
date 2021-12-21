@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LazyFragment.iml" filepath="$PROJECT_DIR$/.idea/modules/LazyFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LazyFragment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LazyFragment.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vp_init/LazyFragment.vp_init.iml" filepath="$PROJECT_DIR$/.idea/modules/vp_init/LazyFragment.vp_init.iml" />
     </modules>
   </component>
 </project>
